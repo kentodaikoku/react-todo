@@ -35,6 +35,9 @@ export const App = () => {
 
   return (
     <>
+      <div>
+        <h1>TODO LIST</h1>
+      </div>
       <div className="input-area">
         <input
           placeholder="TODOを入力"
